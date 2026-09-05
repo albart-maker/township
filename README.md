@@ -31,7 +31,7 @@ Experience the complete agricultural and industrial pipeline: cultivate starter 
 - Dependencies: `pygame>=2.6.0`, `numpy>=1.24.0` (already installed in your environment)
 
 ### How to Run
-1. **Double-click** `run_game.bat` inside `C:\Users\Rion\.gemini\antigravity\scratch\township`, OR
+1. **Double-click** `run_game.bat` inside `township`, OR
 2. Open PowerShell / Command Prompt and run:
 ```bash
 python main.py
