@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Local save game files
+savegame.json
+saves/*.json
+!saves/.gitkeep
+
+# Environments
+.env
+venv/
+ENV/
+env/
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
